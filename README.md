@@ -24,7 +24,6 @@ The 3D model places particles while satisfying minimum spacing
 requirements based on particle size. Particle packing density was
 evaluated for each small-to-large particle composition.
 
-![3D Particle Packing Results](figures/particle_packing.png)
 
 ## Power-Capacity Optimization
 
@@ -36,7 +35,6 @@ Min-Max normalization was therefore applied to both performance
 metrics to determine the composition providing the best overall
 balance.
 
-![Power-Capacity Optimization](figures/optimization_result.png)
 
 ## Key Results
 
